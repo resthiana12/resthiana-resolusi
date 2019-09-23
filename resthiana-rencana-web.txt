@@ -4,7 +4,8 @@ RENCANA WEB SOCIAL MEDIA
   *Tanggal 22
   *Pukul 00.00
 - Tersedia fitur chating
- ^personal & group
+ ^personal
+ ^group
 - Tersedia fitur register dan login
  ^login pake gmail
 - Tersedia halaman utama/beranda
