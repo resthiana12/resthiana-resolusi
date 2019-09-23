@@ -5,5 +5,9 @@ RENCANA WEB SOCIAL MEDIA
   *Pukul 00.00
 - Tersedia fitur chating
  ^personal
+ ^group
 - Tersedia fitur register dan login
+ ^login pake gmail
+- Tersedia halaman utama/beranda
 - Tersedia halaman profil
+- Tersedia halaman grup
