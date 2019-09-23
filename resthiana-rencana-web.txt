@@ -1,0 +1,8 @@
+RENCANA WEB SOCIAL MEDIA
+- Dirilis pada tahun 2020
+  *Bulan Februari
+  *Tanggal 22
+  *Pukul 00.00
+- Tersedia fitur register dan login
+- Tersedia halaman utama/beranda
+- Tersedia halaman profil
